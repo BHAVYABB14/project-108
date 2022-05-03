@@ -1,0 +1,32 @@
+body{
+    font-family: 'Merriweather', serif;
+    background:lightslategray;
+}
+.header_div{
+    background:lightslategray ;
+    color:black;
+}
+.header_div p{
+    font-family: 'Inter', sans-serif;
+    color: lightgrey;
+    letter-spacing: 3px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Inter', sans-serif;
+    margin-top: 30px;
+    width: 120px;
+    letter-spacing: 3px;
+}
+#copy_right_footer{
+    position: fixed;
+    color:red;
+    bottom: 0%;
+    width: 100%;
+    font-size: 17px;
+    background-color: black;
+    line-height: 3px;
+    text-align: center;
+    text-shadow:5px 5px 5px white;
+}
